@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GobbletGobblers/GobbletGobblers.vcxproj" Id="f78ab457-1fed-4039-94ef-cb5f63c1d91f" />
+</Solution>
